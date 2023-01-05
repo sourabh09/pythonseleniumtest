@@ -19,5 +19,3 @@ driver.set_window_size(S('Width'), S('Height'))
 print(S('Width'), S('Height'))
 
 driver.find_element(By.TAG_NAME, 'body').screenshot("Fullpagess1.png")
-
-
